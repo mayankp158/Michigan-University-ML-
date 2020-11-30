@@ -1,2 +1,2 @@
 # Michigan-University-ML-
-Data Science
+Data Science Specialization
